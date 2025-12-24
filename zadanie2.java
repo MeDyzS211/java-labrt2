@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Task2 {
+public class zadanie2 {
     public static void main(String[] args) {
         int[] a = new int[10];
         Random r = new Random();
