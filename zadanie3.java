@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Task3 {
+public class zadanie3 {
     public static final int VALUE = 0;
 
     public static void main(String[] args) {
